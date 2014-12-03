@@ -1,4 +1,4 @@
-1. Created GIT Repository
+1. Created GIT Repository - Changed from Remote
 2. Tried to clone to my Mac machine
 oops getting following error
 "Cloning into 'demo'...
