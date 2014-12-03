@@ -24,6 +24,40 @@ nothing added to commit but untracked files present (use "git add" to track)
 vlprabha-mac:demo vlprabha$ vi Live_Learning.txt
 ==============================================================
 
-7.  
+7. After git add
+=============================================================
 
+vlprabha-mac:demo vlprabha$ git add Live_Learning.txt
+vlprabha-mac:demo vlprabha$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   Live_Learning.txt
+=============================================================
+8. First Commit... Oopsssss.... Error :-
+vlprabha-mac:demo vlprabha$ git add Live_Learning.txt
+vlprabha-mac:demo vlprabha$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   Live_Learning.txt
+============================================================  
+9. Hurrayy.... Commited
+
+vlprabha-mac:demo vlprabha$ git add Live_Learning.txt
+vlprabha-mac:demo vlprabha$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   Live_Learning.txt
+========================================================
 
