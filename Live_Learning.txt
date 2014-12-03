@@ -96,3 +96,15 @@ To https://github.com/vlprabha/demo.git
 ==============================================================================
 11. Updated from github :)
 ===============================================================================
+12. Did git pull from machine
+
+remote: Counting objects: 3, done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0)
+Unpacking objects: 100% (3/3), done.
+From https://github.com/vlprabha/demo
+   fb9201d..06706cf  master     -> origin/master
+Updating fb9201d..06706cf
+Fast-forward
+ Live_Learning.txt | 2 ++
+ 1 file changed, 2 insertions(+)
