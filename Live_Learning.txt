@@ -1,0 +1,29 @@
+1. Created GIT Repository
+2. Tried to clone to my Mac machine
+oops getting following error
+"Cloning into 'demo'...
+fatal: unable to access 'https://github.com/vlprabha/demo.git/': Failed connect to github.com:443; Operation timed out"
+
+3. Did googling (OK i didn't read manual properly....) need to set proxy
+
+4. git config --global http.proxy <proxy:port>
+
+5. created this Live learning file
+
+6. After creating File, I did git status got following message
+===========================================================
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Live_Learning.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+vlprabha-mac:demo vlprabha$ vi Live_Learning.txt
+==============================================================
+
+7.  
+
+
